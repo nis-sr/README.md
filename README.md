@@ -1,28 +1,64 @@
-# README.md
-1. Startpagina
-De startpagina biedt een overzicht van de Carrière Launch Beurs. Hier kunnen bezoekers informatie vinden over het doel van de beurs, de datum en locatie, en de voordelen van deelname. Er is ook een inschrijfformulier beschikbaar waarmee studenten zich kunnen aanmelden voor de beurs.
+🌐 Wat vind je op de website?
+De Carrière Launch Beurs Website is ontworpen om studenten, bedrijven en organisatoren een gebruiksvriendelijke en informatieve ervaring te bieden. De website bestaat uit meerdere pagina’s, elk met een specifieke functie:
 
-2. Login/Registratiepagina
-Op deze pagina kunnen studenten en bedrijven zich registreren of inloggen. Studenten kunnen een account aanmaken om zich in te schrijven voor de beurs, terwijl bedrijven zich kunnen registreren om als standhouder deel te nemen.
+🏠 Startpagina
+Een overzichtelijke introductie tot de beurs met:
 
-3. Dashboard
-Het dashboard biedt een overzicht van belangrijke informatie voor zowel studenten als bedrijven.
+Praktische info (datum, locatie, doel)
 
-Voor studenten: Een overzicht van hun registratie, evenementen waaraan ze deelnemen en een lijst van bedrijven die ze willen bezoeken.
+De voordelen van deelname
 
-Voor bedrijven: Een overzicht van de studenten die zich voor hun stand hebben ingeschreven en hun planning.
+Een inschrijfformulier voor studenten
 
-4. Schemapagina
-De schemapagina toont de gedetailleerde planning van de beurs. Dit bevat een overzicht van het evenement per tijdslot, inclusief welke bedrijven aanwezig zijn en welke activiteiten er plaatsvinden. Studenten kunnen hun planning personaliseren door hun interessegebieden aan te geven.
+🔐 Login- en Registratiepagina
+Hier kunnen:
 
-5. Profielpagina
-De profielpagina toont persoonlijke informatie over de gebruiker, zowel voor studenten als bedrijven. Studenten kunnen hun cv, interesses en ervaringen bijwerken, terwijl bedrijven hun standinformatie, teamleden en vacatures kunnen beheren.
+Studenten een account aanmaken of inloggen om hun profiel en planning te beheren
 
-6. Feedbackpagina
-Na de beurs kunnen bezoekers feedback geven via deze pagina. Studenten kunnen hun ervaringen delen over de beurs, de bedrijven die ze hebben ontmoet en de activiteiten waaraan ze hebben deelgenomen.
+Bedrijven zich registreren om deel te nemen als standhouder
 
-7. Contactpagina
-De contactpagina bevat een sectie met veelgestelde vragen (FAQ). Hier kunnen studenten en bedrijven antwoorden vinden op de meest voorkomende vragen over de beurs, zoals het registratieproces, de locatie, of specifieke verzoeken.
+📊 Dashboard
+Een persoonlijk overzicht na inloggen:
 
-8. Beheerpagina voor Organisatoren
-Deze pagina is toegankelijk voor de organisatoren van de beurs en biedt hen tools om de deelnemers, het schema, en het registratieproces te beheren. Organisatoren kunnen ook de feedbackpagina's inzien en reageren op opmerkingen van deelnemers.
+Studenten zien hun inschrijvingen, favoriete bedrijven en hun agenda
+
+Bedrijven beheren hun profiel en bekijken studenten die interesse tonen
+
+🗓️ Schemapagina
+Een interactieve beursplanning met:
+
+Alle activiteiten en tijdsloten
+
+Mogelijkheid voor studenten om hun persoonlijke schema samen te stellen
+
+👤 Profielpagina
+Een centrale plek voor profielbeheer:
+
+Studenten kunnen hun cv, interesses en vaardigheden toevoegen
+
+Bedrijven beheren hun bedrijfsinformatie, vacatures en vertegenwoordigers
+
+📝 Feedbackpagina
+Laat na afloop van de beurs je mening achter:
+
+Wat ging goed?
+
+Wat kan beter?
+
+Hoe heb je de contacten en workshops ervaren?
+
+❓ Contactpagina & FAQ
+Voor alle vragen en antwoorden over de beurs:
+
+Informatie over locatie, timing, deelname, enz.
+
+Contactformulier voor extra ondersteuning
+
+⚙️ Beheerpagina voor Organisatoren
+Alle tools voor het organisatieteam op één plek:
+
+Inzichten in inschrijvingen en statistieken
+
+Beursplanning beheren
+
+Feedback opvolgen
