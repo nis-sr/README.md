@@ -1,3 +1,5 @@
+Carrière Launch Beurs Website
+
 🌐 Wat vind je op de website?
 De Carrière Launch Beurs Website is ontworpen om studenten, bedrijven en organisatoren een gebruiksvriendelijke en informatieve ervaring te bieden. De website bestaat uit meerdere pagina’s, elk met een specifieke functie:
 
